@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+Im Carlos I'm a Full Stack Developer, art photogrpher and a lawyer, I live in Buenos Aires, Argentina.
+
+JAVASCRIPT || REACT JS || HTML || CSS || GIT || SASS || REDUX || POSTGRE || SEQUELIZE
+
+you can contact me in linkedin
+
+https://www.linkedin.com/in/carlos-janon-developer/
 <!--
 **CJ-arg/CJ-arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
