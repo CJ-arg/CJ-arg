@@ -3,7 +3,7 @@
 
 Im Carlos I'm a Full Stack Developer, art photogrpher and a lawyer, I live in Buenos Aires, Argentina.
 
-JAVASCRIPT || REACT JS || HTML || CSS || GIT || SASS || REDUX || POSTGRE || SEQUELIZE
+JAVASCRIPT || REACT JS || HTML || CSS || GIT || SASS || REDUX || POSTGRE || SEQUELIZE || EXPRESS || MATERIAL UI 
 
 ![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
 
