@@ -7,6 +7,9 @@ JAVASCRIPT || REACT JS || HTML || CSS || GIT || SASS || REDUX || POSTGRE || SEQU
 
 ![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
 
+![image](https://user-images.githubusercontent.com/75990840/133699154-f537aeae-9d64-4565-9b12-9028a41124af.png)
+
+
 you can contact me in linkedin
 
 https://www.linkedin.com/in/carlos-janon-developer/
