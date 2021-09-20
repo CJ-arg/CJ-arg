@@ -7,6 +7,12 @@ JAVASCRIPT || REACT JS || HTML || CSS || GIT || SASS || REDUX || POSTGRE || SEQU
 
 ![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
 
+Group Bootcamp Final Proyect. Tourism Web page Tickets Activities(suppliers & buyers) and Agenda. Admin panel. React js Node Express Sequelize.
+Deployed https://lowhenry-psi.vercel.app/
+![landing](https://user-images.githubusercontent.com/75990840/134073208-6e3df34e-8f51-4cb0-8abc-29c5faf4d477.png)
+
+
+
 Simple proyect frontend Sass and React https://rickandmortyapi.com/
 Deployed https://proyect-react-api-rick-and-morty.netlify.app
 
