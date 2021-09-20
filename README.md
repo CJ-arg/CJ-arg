@@ -6,6 +6,9 @@ Im Carlos I'm a Full Stack Developer, art photogrpher and a lawyer, I live in Bu
 JAVASCRIPT || REACT JS || HTML || CSS || GIT || SASS || REDUX || POSTGRE || SEQUELIZE || EXPRESS || MATERIAL UI 
 
 ![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
+Bootcamp Full Stack individual Proyect. Countries Web page Country Api Info filters, order, pagination and create activitys. Css, React, Redux, NodeJs, Express, Sequelize.
+![image](https://user-images.githubusercontent.com/75990840/134075497-a5ec3253-89e9-49d7-be0e-29ba6ac9e67e.png)
+
 
 Bootcamp Final group Proyect. Tourism Web page Tickets Activities(suppliers & buyers) and Agenda. Admin panel. React js Node Express Sequelize.
 Deployed https://lowhenry-psi.vercel.app/
