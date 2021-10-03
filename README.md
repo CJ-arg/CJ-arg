@@ -24,9 +24,12 @@ Deployed https://proyect-react-api-rick-and-morty.netlify.app
 ![image](https://user-images.githubusercontent.com/75990840/133699154-f537aeae-9d64-4565-9b12-9028a41124af.png)
 
 
-you can contact me in linkedin
+you can contact me in Linkedin
 
 https://www.linkedin.com/in/carlos-janon-developer/
+
+
+
 <!--
 **CJ-arg/CJ-arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
