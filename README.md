@@ -41,6 +41,13 @@ CHALLENGE FRONTEND React 🚀 Objetivo Desarrollar una aplicación para crear un
 
 
 
+
+![image](https://user-images.githubusercontent.com/75990840/148584001-67d14f61-609a-47fd-8e61-4615534cf639.png)
+
+
+![image](https://user-images.githubusercontent.com/75990840/148583207-db6122e0-12b1-4a6b-ac31-526adfe2deb3.png)
+
+
 you can contact me in Linkedin
 
 https://www.linkedin.com/in/carlos-janon-developer/
