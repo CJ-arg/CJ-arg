@@ -34,14 +34,14 @@ Deployed https://proyect-react-api-rick-and-morty.netlify.app
 ![image](https://user-images.githubusercontent.com/75990840/133699154-f537aeae-9d64-4565-9b12-9028a41124af.png)
 
 
-This app was crated as a challenge for Alkemy
+This page was crated as a challenge for Alkemy
 CHALLENGE FRONTEND React 🚀 Objetivo Desarrollar una aplicación para crear un equipo de superhéroes que consumirá una API externa y mostrará diferentes atributos a nivel individual de cada miembro y del equipo consolidado.
 
 ![image](https://user-images.githubusercontent.com/75990840/142205995-a325ddd8-a565-469f-b97c-c29063f0eb54.png)
 
 
 
-This app was crated for Alkemy Labs job aceleration - FRONTEND Responsive - REACT REDUX -
+This proyect was crated for Alkemy Labs job aceleration - ONG SOMOS MAS - Javascript Frontend Responsive - REACT JS REDUX -
 Team Job with Jira and Scrum 
 
 
