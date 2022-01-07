@@ -41,15 +41,15 @@ CHALLENGE FRONTEND React 🚀 Objetivo Desarrollar una aplicación para crear un
 
 
 
-This app was crated as a Aceleratip for Alkemy
-FRONTEND React Responsive 
-Tecnología REACT REDUX
+This app was crated for Alkemy Labs job aceleration - FRONTEND Responsive REACT REDUX Team Job with Jira and Scrum 
 
-![image](https://user-images.githubusercontent.com/75990840/148584001-67d14f61-609a-47fd-8e61-4615534cf639.png)
+
 ![image](https://user-images.githubusercontent.com/75990840/148586326-f2b9f13c-3e27-459f-a628-eb57c2847fb4.png)
 ![image](https://user-images.githubusercontent.com/75990840/148586224-b3d56b38-490b-48ba-a8b1-ffb09e5e67e2.png)
 ![image](https://user-images.githubusercontent.com/75990840/148586268-415a5134-3092-4b4c-ab3c-9bb713165a30.png)
-
+![image](https://user-images.githubusercontent.com/75990840/148584001-67d14f61-609a-47fd-8e61-4615534cf639.png)
+libraries used 
+![image](https://user-images.githubusercontent.com/75990840/148587667-d66e0ab5-5a96-4d36-8ee7-6b03f942128a.png)
 
 
 
