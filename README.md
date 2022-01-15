@@ -42,7 +42,7 @@ CHALLENGE FRONTEND React 🚀 Objetivo Desarrollar una aplicación para crear un
 
 
 This proyect was crated for Alkemy Labs job aceleration - ONG SOMOS MAS - Javascript Frontend Responsive - REACT JS REDUX -
-Team Job with Jira and Scrum 
+Team Job with Github, Jira and Scrum 
 
 
 ![image](https://user-images.githubusercontent.com/75990840/148586326-f2b9f13c-3e27-459f-a628-eb57c2847fb4.png)
@@ -53,9 +53,11 @@ Team Job with Jira and Scrum
  -->
 
 
-
+🔭 I’m currently working on ...
+A my Firs Ruby on Rails project
 
 you can contact me in Linkedin
+
 
 https://www.linkedin.com/in/carlos-janon-developer/
 
