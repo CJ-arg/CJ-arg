@@ -23,7 +23,9 @@ Bootcamp Full Stack individual Proyect. Countrys Web page Country Api Info filte
 
 
 Bootcamp Final group Proyect. Tourism Web page Tickets Activities(suppliers & buyers) and Agenda. Admin panel. React js Node Express Sequelize.
-Deployed https://lowhenry-psi.vercel.app/
+Deployed 
+https://lowhenry-psi.vercel.app/
+
 ![landing](https://user-images.githubusercontent.com/75990840/134073208-6e3df34e-8f51-4cb0-8abc-29c5faf4d477.png)
 
 
