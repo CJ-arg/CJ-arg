@@ -18,11 +18,11 @@ Im Carlos I'm a Full Stack Developer, art photogrpher and a lawyer, I live in Bu
 ![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
 
 
-Bootcamp Full Stack individual Proyect. Countrys Web page Country Api Info filters, order, pagination and create activitys. Css, React, Redux, NodeJs, Express, Sequelize.
+Bootcamp Full Stack individual Project. Countrys Web page Country Api Info filters, order, pagination and create activitys. Css, React, Redux, NodeJs, Express, Sequelize.
 ![image](https://user-images.githubusercontent.com/75990840/134075497-a5ec3253-89e9-49d7-be0e-29ba6ac9e67e.png)
 
 
-Bootcamp Final group Proyect. Tourism Web page Tickets Activities(suppliers & buyers) and Agenda. Admin panel. React js Node Express Sequelize.
+Bootcamp Final group Project. Tourism Web page Tickets Activities(suppliers & buyers) and Agenda. Admin panel. React js Node Express Sequelize.
 Deployed 
 https://lowhenry-psi.vercel.app/
 
@@ -30,7 +30,7 @@ https://lowhenry-psi.vercel.app/
 
 
 
-Simple proyect frontend Sass and React https://rickandmortyapi.com/
+Simple project frontend Sass and React https://rickandmortyapi.com/
 Deployed https://proyect-react-api-rick-and-morty.netlify.app
 
 ![image](https://user-images.githubusercontent.com/75990840/133699154-f537aeae-9d64-4565-9b12-9028a41124af.png)
@@ -43,7 +43,7 @@ CHALLENGE FRONTEND React 🚀 Objetivo Desarrollar una aplicación para crear un
 
 
 
-This proyect was crated for Alkemy Labs job aceleration - ONG SOMOS MAS - Javascript Frontend Responsive - REACT JS REDUX -
+This project was crated for Alkemy Labs job aceleration - ONG SOMOS MAS - Javascript Frontend Responsive - REACT JS REDUX -
 Team Job with Github, Jira and Scrum 
 
 
@@ -53,10 +53,6 @@ Team Job with Github, Jira and Scrum
 ![image](https://user-images.githubusercontent.com/75990840/148584001-67d14f61-609a-47fd-8e61-4615534cf639.png)
 <!-- ![image](https://user-images.githubusercontent.com/75990840/148587842-60fe76a8-42fc-4d6b-8085-12dc1bf37949.png)
  -->
-
-
-🔭 I’m currently working on ...
-A my Firs Ruby on Rails project
 
 you can contact me in Linkedin
 
