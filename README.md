@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Im Carlos I'm a Full Stack Developer, art photogrpher and a lawyer, I live in Buenos Aires, Argentina.
+Im Carlos I'm a Full Stack Developer and art photogrpher, I live in Buenos Aires, Argentina.
 
  ● JAVASCRIPT
  ● REACT JS 
