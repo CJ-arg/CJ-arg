@@ -19,6 +19,8 @@ Im Carlos I'm a Full Stack Developer and art photogrpher, I live in Buenos Aires
 
 My most recent project with React. SVG COW PROYECT  https://svg-proyect.vercel.app/
 
+I'm doing a React course on Udemy, this is one of the exercises. https://cj-arg.github.io/react-gif-app/
+![image](https://github.com/CJ-arg/CJ-arg/assets/75990840/d5f4ab8c-1bcd-4cea-a9e0-4565f0a322a3)
 
 ![image](https://user-images.githubusercontent.com/75990840/193481446-4cc8c944-d8a9-4e81-b568-3e4ff0be8019.png)
 
