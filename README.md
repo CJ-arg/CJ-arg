@@ -57,12 +57,10 @@ This project was crated for Alkemy Labs job aceleration - ONG SOMOS MAS - Javasc
 Team Job with Github, Jira and Scrum 
 
 
-![image](https://user-images.githubusercontent.com/75990840/148586326-f2b9f13c-3e27-459f-a628-eb57c2847fb4.png)
-![image](https://user-images.githubusercontent.com/75990840/148586224-b3d56b38-490b-48ba-a8b1-ffb09e5e67e2.png)
+
 ![image](https://user-images.githubusercontent.com/75990840/148586268-415a5134-3092-4b4c-ab3c-9bb713165a30.png)
 ![image](https://user-images.githubusercontent.com/75990840/148584001-67d14f61-609a-47fd-8e61-4615534cf639.png)
-<!-- ![image](https://user-images.githubusercontent.com/75990840/148587842-60fe76a8-42fc-4d6b-8085-12dc1bf37949.png)
- -->
+
 
 you can contact me in Linkedin
 
