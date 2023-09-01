@@ -13,7 +13,8 @@ Im Carlos I'm a Full Stack Developer and art photogrpher, I live in Buenos Aires
  ● POSTGRE 
  ● SEQUELIZE 
  ● EXPRESS 
-  
+  ![image](https://github.com/CJ-arg/CJ-arg/assets/75990840/3c64c3e3-887d-4359-9f15-059f3371df8f)
+A Calendar APP using the MERN stack displayed in heroku https://mern-udemy-app-ed6ec6212630.herokuapp.com/auth/login
 
 ![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
 
