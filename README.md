@@ -17,8 +17,7 @@ Im Carlos I'm a Full Stack Developer and art photogrpher, I live in Buenos Aires
 ![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
 
 
-A Calendar APP using the MERN stack displayed in heroku https://mern-udemy-app-ed6ec6212630.herokuapp.com/auth/login
-![image](https://github.com/CJ-arg/CJ-arg/assets/75990840/fb2c8443-7632-4b50-a76d-3c5e101c24e7)
+A Calendar APP using the MERN stack
 
   
 My most recent project with React. SVG COW PROYECT  https://svg-proyect.vercel.app/
