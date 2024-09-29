@@ -14,7 +14,6 @@ Im Carlos I'm a Full Stack Developer and art photogrpher, I live in Buenos Aires
  ● SEQUELIZE 
  ● EXPRESS 
 
-![image](https://user-images.githubusercontent.com/75990840/129479798-226ff011-c09b-4c69-87fc-51fa8504b776.png)
 
 
 
