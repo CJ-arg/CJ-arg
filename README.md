@@ -1,18 +1,10 @@
 ### Hi  👋
 
 
-Im Carlos I'm a Full Stack Developer and art photogrpher, I live in Buenos Aires, Argentina.
+Im Carlos I'm a Full Stack Developer I live in Buenos Aires, Argentina.
 
- ● JAVASCRIPT
- ● REACT JS 
- ● HTML
- ● CSS 
- ●  GIT 
- ● SASS 
- ● REDUX 
- ● POSTGRE 
- ● SEQUELIZE 
- ● EXPRESS 
+
+ 
 My first project in Python and most recent project created to complete the course CS50p 
 
 
