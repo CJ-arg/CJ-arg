@@ -13,8 +13,10 @@ Im Carlos I'm a Full Stack Developer and art photogrpher, I live in Buenos Aires
  ● POSTGRE 
  ● SEQUELIZE 
  ● EXPRESS 
+My first project in Python and most recent project created to complete the course CS50p ![image](https://github.com/user-attachments/assets/876e68fe-54cb-4032-9f18-fc929bfbccab)
 
 
+![image](https://github.com/user-attachments/assets/753db0f6-f57c-434e-bdc9-0bbe5a4c53fa)
 
 
 
