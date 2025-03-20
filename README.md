@@ -8,7 +8,8 @@ Im Carlos I'm a Full Stack Developer I live in Buenos Aires, Argentina.
 My first project in Python and most recent project created to complete the course CS50p 
 
 
-![image](https://github.com/user-attachments/assets/753db0f6-f57c-434e-bdc9-0bbe5a4c53fa)
+![image](https://github.com/user-attachments/assets/5d47293c-539e-4174-9081-adf2252ef7e4)
+
 
 
 
