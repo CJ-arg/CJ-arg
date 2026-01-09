@@ -1,7 +1,10 @@
 ### Hi  👋
 
 
-Im Carlos I'm a Full Stack Developer I live in Buenos Aires, Argentina.
+I'm Carlos.
+I'm a Full Stack Developer, I live in Buenos Aires, Argentina.
+
+These are my personal projects:
 
 🏛️ Stoic AI Mentor | Full-Stack Generative AI
 A high-performance responsive application leveraging Llama 3.3 and Node.js to bridge ancient philosophy with modern AI-Augmented development.
