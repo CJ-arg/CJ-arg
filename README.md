@@ -3,8 +3,13 @@
 
 Im Carlos I'm a Full Stack Developer I live in Buenos Aires, Argentina.
 
+🏛️ Stoic AI Mentor | Full-Stack Generative AI
+A high-performance responsive application leveraging Llama 3.3 and Node.js to bridge ancient philosophy with modern AI-Augmented development.
 
- 
+https://stoic-ai-mentor.vercel.app/
+
+<img width="1187" height="670" alt="image" src="https://github.com/user-attachments/assets/0326f778-7e28-4b6e-abfd-57a28dba8bd8" />
+
 My first project in Python and most recent project created to complete the course CS50p 
 
 
