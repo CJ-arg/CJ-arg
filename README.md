@@ -6,14 +6,15 @@ I'm a Full Stack Developer, I live in Buenos Aires, Argentina.
 
 These are my personal projects:
 
-🏛️ Stoic AI Mentor | Full-Stack Generative AI  2026
+2026  🏛️ Stoic AI Mentor | Full-Stack Generative AI 
+
 A high-performance responsive application leveraging Llama 3.3 and Node.js to bridge ancient philosophy with modern AI-Augmented development.
 
 https://stoic-ai-mentor.vercel.app/
 
 <img width="1187" height="670" alt="image" src="https://github.com/user-attachments/assets/0326f778-7e28-4b6e-abfd-57a28dba8bd8" />
 
-My first project in Python and most recent project created to complete the course CS50p  2025
+2025 My first project in Python and most recent project created to complete the course CS50p  
 
 
 ![image](https://github.com/user-attachments/assets/5d47293c-539e-4174-9081-adf2252ef7e4)
@@ -22,44 +23,44 @@ My first project in Python and most recent project created to complete the cours
 
 
   
-My most recent project with React. SVG COW PROYECT  https://svg-proyect.vercel.app/ 2024
+2024 My most recent project with React. SVG COW PROYECT  https://svg-proyect.vercel.app/ 
 ![image](https://user-images.githubusercontent.com/75990840/193481446-4cc8c944-d8a9-4e81-b568-3e4ff0be8019.png)
 
 
-I'm doing a React course on Udemy, this is one of the exercises. https://cj-arg.github.io/react-gif-app/  2023
+2023 I'm doing a React course on Udemy, this is one of the exercises. https://cj-arg.github.io/react-gif-app/  
 ![image](https://github.com/CJ-arg/CJ-arg/assets/75990840/d5f4ab8c-1bcd-4cea-a9e0-4565f0a322a3)
 
 
 
-Bootcamp Full Stack individual Project. Countrys Web page Country Api Info filters, order, pagination and create activitys. Css, React, Redux, NodeJs, Express, Sequelize. 2022 
+2022 Bootcamp Full Stack individual Project. Countrys Web page Country Api Info filters, order, pagination and create activitys. Css, React, Redux, NodeJs, Express, Sequelize.  
 
 
 ![image](https://user-images.githubusercontent.com/75990840/134075497-a5ec3253-89e9-49d7-be0e-29ba6ac9e67e.png)  
 
 
-Bootcamp Final group Project. Tourism Web page Tickets Activities(suppliers & buyers) and Agenda. Admin panel. React js Node Express Sequelize.
-Deployed 2022
+2022 Bootcamp Final group Project. Tourism Web page Tickets Activities(suppliers & buyers) and Agenda. Admin panel. React js Node Express Sequelize.
+Deployed 
 https://lowhenry-psi.vercel.app/
 
 ![landing](https://user-images.githubusercontent.com/75990840/134073208-6e3df34e-8f51-4cb0-8abc-29c5faf4d477.png)
 
 
 
-Simple project frontend Sass and React https://rickandmortyapi.com/  2022
+2022 Simple project frontend Sass and React https://rickandmortyapi.com/  
 Deployed https://proyect-react-api-rick-and-morty.netlify.app 
 
 ![image](https://user-images.githubusercontent.com/75990840/133699154-f537aeae-9d64-4565-9b12-9028a41124af.png)
 
 
-This page was crated as a challenge for Alkemy 2022 
+2022 This page was crated as a challenge for Alkemy  
 CHALLENGE FRONTEND React 🚀 Objetivo Desarrollar una aplicación para crear un equipo de superhéroes que consumirá una API externa y mostrará diferentes atributos a nivel individual de cada miembro y del equipo consolidado.
 
 ![image](https://user-images.githubusercontent.com/75990840/142205995-a325ddd8-a565-469f-b97c-c29063f0eb54.png)
 
 
 
-This project was crated for Alkemy Labs job aceleration - ONG SOMOS MAS - Javascript Frontend Responsive - REACT JS REDUX -
-Team Job with Github, Jira and Scrum 2022
+2022 This project was crated for Alkemy Labs job aceleration - ONG SOMOS MAS - Javascript Frontend Responsive - REACT JS REDUX -
+Team Job with Github, Jira and Scrum 
 
 
 
