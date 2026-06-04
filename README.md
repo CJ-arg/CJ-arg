@@ -17,9 +17,6 @@ https://stoic-ai-mentor.vercel.app/
 2025 My first project in Python and most recent project created to complete the course CS50p  
 
 
-![image](https://github.com/user-attachments/assets/5d47293c-539e-4174-9081-adf2252ef7e4)
-
-
 
 
   
